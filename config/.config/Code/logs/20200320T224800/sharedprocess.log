@@ -1,9 +1,0 @@
-[2020-03-20 22:48:03.823] [sharedprocess] [info] main {"machineId":"bcbf8041506c05e3c63d8f71f2ca715043b3d4d08323c85a245c212d8e65ef12","windowId":2}
-[2020-03-20 22:48:04.039] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-ssh-edit /home/rgniadek/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.50.0
-[2020-03-20 22:48:04.160] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-ssh /home/rgniadek/.vscode/extensions/ms-vscode-remote.remote-ssh-0.50.0
-[2020-03-20 22:48:04.183] [sharedprocess] [info] Deleted from disk vscjava.vscode-maven /home/rgniadek/.vscode/extensions/vscjava.vscode-maven-0.21.1
-[2020-03-20 22:48:04.294] [sharedprocess] [info] Deleted from disk ms-python.python /home/rgniadek/.vscode/extensions/ms-python.python-2020.2.64397
-[2020-03-20 22:48:04.295] [sharedprocess] [info] Deleted from disk pivotal.vscode-spring-boot /home/rgniadek/.vscode/extensions/pivotal.vscode-spring-boot-1.15.0
-[2020-03-20 22:48:43.833] [sharedprocess] [info] Starting to clean up unused language packs.
-[2020-03-20 22:48:48.889] [sharedprocess] [info] Uninstalling extension: icrawl.discord-vscode
-[2020-03-20 22:48:48.906] [sharedprocess] [info] Successfully uninstalled extension: icrawl.discord-vscode

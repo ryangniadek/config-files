@@ -1,6 +1,0 @@
-2020/03/19-09:46:11.959 eee Reusing MANIFEST /home/rgniadek/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/03/19-09:46:11.959 eee Recovering log #7
-2020/03/19-09:46:11.964 eee Reusing old log /home/rgniadek/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000007.log 
-2020/03/20-11:59:19.023 10bf Level-0 table #11: started
-2020/03/20-11:59:19.037 10bf Level-0 table #11: 1409110 bytes OK
-2020/03/20-11:59:19.038 10bf Delete type=0 #7

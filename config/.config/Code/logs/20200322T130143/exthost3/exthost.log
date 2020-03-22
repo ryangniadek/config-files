@@ -1,6 +1,0 @@
-[2020-03-22 13:05:53.036] [exthost] [info] extension host started
-[2020-03-22 13:05:53.044] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onResolveRemoteAuthority:attached-container"}
-[2020-03-22 13:05:53.044] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rgniadek/.vscode/extensions/ms-vscode-remote.remote-containers-0.106.0/dist/extension
-[2020-03-22 13:05:57.269] [exthost] [info] extension host started
-[2020-03-22 13:05:57.281] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onResolveRemoteAuthority:attached-container"}
-[2020-03-22 13:05:57.282] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rgniadek/.vscode/extensions/ms-vscode-remote.remote-containers-0.106.0/dist/extension
