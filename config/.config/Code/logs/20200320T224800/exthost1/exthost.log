@@ -1,0 +1,46 @@
+[2020-03-20 22:48:02.277] [exthost] [info] extension host started
+[2020-03-20 22:48:02.298] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:html"}
+[2020-03-20 22:48:02.298] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/27/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-03-20 22:48:02.320] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-03-20 22:48:02.320] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/27/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2020-03-20 22:48:02.344] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-03-20 22:48:02.344] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/27/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-03-20 22:48:02.349] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-03-20 22:48:02.349] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/27/usr/share/code/resources/app/extensions/git/dist/main
+[2020-03-20 22:48:02.390] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-03-20 22:48:02.390] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/27/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-03-20 22:48:02.393] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-03-20 22:48:02.393] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/27/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-03-20 22:48:02.396] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-03-20 22:48:02.396] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/27/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-03-20 22:48:02.397] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-03-20 22:48:02.397] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/27/usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-03-20 22:48:02.400] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode {"startup":true,"extensionId":{"value":"icrawl.discord-vscode","_lower":"icrawl.discord-vscode"},"activationEvent":"*"}
+[2020-03-20 22:48:02.401] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rgniadek/.vscode/extensions/icrawl.discord-vscode-3.13.0/dist/extension
+[2020-03-20 22:48:02.406] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2020-03-20 22:48:02.406] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rgniadek/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.1783/out/prod/extension-prod
+[2020-03-20 22:48:02.994] [exthost] [info] eager extensions activated
+[2020-03-20 22:48:16.152] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview {"startup":false,"extensionId":{"value":"vscode.image-preview","_lower":"vscode.image-preview"},"activationEvent":"onCustomEditor:imagePreview.previewEditor"}
+[2020-03-20 22:48:16.153] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/27/usr/share/code/resources/app/extensions/image-preview/dist/extension
+[2020-03-20 22:48:52.359] [exthost] [info] extension host started
+[2020-03-20 22:48:52.395] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:html"}
+[2020-03-20 22:48:52.396] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/27/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-03-20 22:48:52.415] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-03-20 22:48:52.415] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/27/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2020-03-20 22:48:52.436] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-03-20 22:48:52.437] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/27/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-03-20 22:48:52.442] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-03-20 22:48:52.442] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/27/usr/share/code/resources/app/extensions/git/dist/main
+[2020-03-20 22:48:52.481] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-03-20 22:48:52.481] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/27/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-03-20 22:48:52.485] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-03-20 22:48:52.485] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/27/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-03-20 22:48:52.489] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-03-20 22:48:52.489] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/27/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-03-20 22:48:52.490] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-03-20 22:48:52.490] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/27/usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-03-20 22:48:52.494] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2020-03-20 22:48:52.494] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rgniadek/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.1783/out/prod/extension-prod
+[2020-03-20 22:48:52.897] [exthost] [info] eager extensions activated
+[2020-03-20 22:48:54.203] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview {"startup":false,"extensionId":{"value":"vscode.image-preview","_lower":"vscode.image-preview"},"activationEvent":"onCustomEditor:imagePreview.previewEditor"}
+[2020-03-20 22:48:54.203] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/27/usr/share/code/resources/app/extensions/image-preview/dist/extension

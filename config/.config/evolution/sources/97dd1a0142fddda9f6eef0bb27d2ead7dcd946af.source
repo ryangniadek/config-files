@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=ryan21401@gmail.com
+Enabled=false
+Parent=9bd47f658f30d505dbd830f7ee87885b6ca4c856
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=0b6584362c2045aafb2bd3a4713c2f9bd7dc5661
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=ryan21401@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

@@ -1,0 +1,42 @@
+[Data Source]
+DisplayName=rgniadek@vt.edu
+Enabled=true
+Parent=
+
+[Collection]
+BackendName=google
+CalendarEnabled=true
+ContactsEnabled=true
+Identity=rgniadek@vt.edu
+MailEnabled=true
+CalendarUrl=
+ContactsUrl=
+
+[GNOME Online Accounts]
+AccountId=account_1581351360_1
+CalendarUrl=https://apidata.googleusercontent.com/caldav/v2/rgniadek@vt.edu/user
+ContactsUrl=https://www.googleapis.com/.well-known/carddav
+Name=
+Address=rgniadek@vt.edu
+
+[Authentication]
+Host=
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=
+CredentialName=
+
+[WebDAV Backend]
+AvoidIfmatch=false
+CalendarAutoSchedule=false
+Color=
+DisplayName=
+EmailAddress=
+ResourcePath=
+ResourceQuery=
+SslTrust=
+
+[Security]
+Method=none

@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/rgniadek/.config'
+let g:netrw_dirhist_2='/home/rgniadek/.zoom'
+let g:netrw_dirhist_3='/home/rgniadek/.dotfiles/bash/.bashrc'

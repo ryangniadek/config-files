@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/rgniadek/.config/Code/User/workspaceStorage/30fa6de1219ef5863060092bd438a1b3/redhat.java/.61c170501db0f7cc9ed1594819b71fa7d95207a4-audit.json",
+    "files": [
+        {
+            "date": 1584561277373,
+            "name": "/home/rgniadek/.config/Code/User/workspaceStorage/30fa6de1219ef5863060092bd438a1b3/redhat.java/client.log.2020-03-18",
+            "hash": "7cad790e9af3fcb82c8bcc07096d5212"
+        }
+    ]
+}

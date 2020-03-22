@@ -1,0 +1,24 @@
+2020/03/17-21:55:42.499 e7e Reusing MANIFEST leveldb/MANIFEST-000001
+2020/03/17-21:55:42.500 e7e Recovering log #112
+2020/03/17-21:55:42.501 e7e Reusing old log leveldb/000112.log 
+2020/03/17-23:55:42.504 e7c Level-0 table #116: started
+2020/03/17-23:55:42.508 e7c Level-0 table #116: 12232 bytes OK
+2020/03/17-23:55:42.511 e7c Delete type=0 #112
+2020/03/18-07:09:42.517 e7c Level-0 table #118: started
+2020/03/18-07:09:42.519 e7c Level-0 table #118: 7559 bytes OK
+2020/03/18-07:09:42.520 e7c Delete type=0 #115
+2020/03/18-14:23:42.515 faa Level-0 table #120: started
+2020/03/18-14:23:42.518 faa Level-0 table #120: 7555 bytes OK
+2020/03/18-14:23:42.521 faa Delete type=0 #117
+2020/03/18-14:23:42.521 e7c Compacting 4@0 + 1@1 files
+2020/03/18-14:23:42.524 e7c Generated table #121@0: 39 keys, 3281 bytes
+2020/03/18-14:23:42.524 e7c Compacted 4@0 + 1@1 files => 3281 bytes
+2020/03/18-14:23:42.526 e7c compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/03/18-14:23:42.526 e7c Delete type=2 #113
+2020/03/18-14:23:42.526 e7c Delete type=2 #110
+2020/03/18-14:23:42.527 e7c Delete type=2 #120
+2020/03/18-14:23:42.527 e7c Delete type=2 #116
+2020/03/18-14:23:42.527 e7c Delete type=2 #118
+2020/03/18-21:37:42.513 faa Level-0 table #123: started
+2020/03/18-21:37:42.517 faa Level-0 table #123: 7561 bytes OK
+2020/03/18-21:37:42.519 faa Delete type=0 #119

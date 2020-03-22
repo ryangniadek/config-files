@@ -1,0 +1,38 @@
+[2020-03-20 22:44:11.671] [sharedprocess] [info] main {"machineId":"bcbf8041506c05e3c63d8f71f2ca715043b3d4d08323c85a245c212d8e65ef12","windowId":2}
+[2020-03-20 22:44:13.980] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-03-20 22:44:13.980] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh
+[2020-03-20 22:44:13.980] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh-edit
+[2020-03-20 22:44:13.981] [sharedprocess] [info] Installing extension: pivotal.vscode-spring-boot
+[2020-03-20 22:44:13.981] [sharedprocess] [info] Installing extension: vscjava.vscode-maven
+[2020-03-20 22:44:14.816] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh-edit /tmp/31618d72-d35b-453f-84f3-9ec1db200790
+[2020-03-20 22:44:14.838] [sharedprocess] [info] Extracted extension to /home/rgniadek/.vscode/extensions/.ms-vscode-remote.remote-ssh-edit-0.50.1: ms-vscode-remote.remote-ssh-edit
+[2020-03-20 22:44:14.838] [sharedprocess] [info] Renamed to /home/rgniadek/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.50.1
+[2020-03-20 22:44:14.838] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-ssh-edit
+[2020-03-20 22:44:14.842] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-ssh-edit
+[2020-03-20 22:44:14.972] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh /tmp/fcc0c1f1-df92-47a9-99c8-c62c9488074f
+[2020-03-20 22:44:15.092] [sharedprocess] [info] Extracted extension to /home/rgniadek/.vscode/extensions/.ms-vscode-remote.remote-ssh-0.50.1: ms-vscode-remote.remote-ssh
+[2020-03-20 22:44:15.093] [sharedprocess] [info] Renamed to /home/rgniadek/.vscode/extensions/ms-vscode-remote.remote-ssh-0.50.1
+[2020-03-20 22:44:15.093] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-ssh
+[2020-03-20 22:44:15.097] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-ssh
+[2020-03-20 22:44:17.659] [sharedprocess] [info] Downloaded extension: vscjava.vscode-maven /tmp/48ff04cb-a2a6-4c16-a7ff-8e432182fde4
+[2020-03-20 22:44:17.922] [sharedprocess] [info] Extracted extension to /home/rgniadek/.vscode/extensions/.vscjava.vscode-maven-0.21.2: vscjava.vscode-maven
+[2020-03-20 22:44:17.922] [sharedprocess] [info] Renamed to /home/rgniadek/.vscode/extensions/vscjava.vscode-maven-0.21.2
+[2020-03-20 22:44:17.923] [sharedprocess] [info] Installation completed. vscjava.vscode-maven
+[2020-03-20 22:44:17.928] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-maven
+[2020-03-20 22:44:20.294] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/1d05b2d7-914d-476f-bf43-45edd245d278
+[2020-03-20 22:44:21.445] [sharedprocess] [info] Downloaded extension: pivotal.vscode-spring-boot /tmp/a7f29269-c41a-4b5e-9431-7869a4e13bfc
+[2020-03-20 22:44:22.722] [sharedprocess] [info] Extracted extension to /home/rgniadek/.vscode/extensions/.ms-python.python-2020.3.69010: ms-python.python
+[2020-03-20 22:44:22.723] [sharedprocess] [info] Renamed to /home/rgniadek/.vscode/extensions/ms-python.python-2020.3.69010
+[2020-03-20 22:44:22.726] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-03-20 22:44:22.740] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-03-20 22:44:23.356] [sharedprocess] [info] Extracted extension to /home/rgniadek/.vscode/extensions/.pivotal.vscode-spring-boot-1.16.0: pivotal.vscode-spring-boot
+[2020-03-20 22:44:23.356] [sharedprocess] [info] Renamed to /home/rgniadek/.vscode/extensions/pivotal.vscode-spring-boot-1.16.0
+[2020-03-20 22:44:23.356] [sharedprocess] [info] Installation completed. pivotal.vscode-spring-boot
+[2020-03-20 22:44:23.402] [sharedprocess] [info] Extensions installed successfully: pivotal.vscode-spring-boot
+[2020-03-20 22:44:51.682] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-03-20 22:46:42.793] [sharedprocess] [info] Installing extension: icrawl.discord-vscode
+[2020-03-20 22:46:43.523] [sharedprocess] [info] Downloaded extension: icrawl.discord-vscode /tmp/12e582b4-24d9-4b37-9e99-63f16ff6e3d6
+[2020-03-20 22:46:43.554] [sharedprocess] [info] Extracted extension to /home/rgniadek/.vscode/extensions/.icrawl.discord-vscode-3.13.0: icrawl.discord-vscode
+[2020-03-20 22:46:43.554] [sharedprocess] [info] Renamed to /home/rgniadek/.vscode/extensions/icrawl.discord-vscode-3.13.0
+[2020-03-20 22:46:43.555] [sharedprocess] [info] Installation completed. icrawl.discord-vscode
+[2020-03-20 22:46:43.558] [sharedprocess] [info] Extensions installed successfully: icrawl.discord-vscode

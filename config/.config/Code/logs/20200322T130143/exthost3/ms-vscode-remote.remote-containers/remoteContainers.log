@@ -1,0 +1,24 @@
+[2020-03-22T17:05:53.173Z] [PID 27483] [1 ms] Setting up container babbledockerapp_app_1
+
+[2020-03-22T17:05:53.172Z] [PID 27483] [0 ms] Start: Resolving remote
+[2020-03-22T17:05:53.180Z] [PID 27483] [8 ms] Start: Check Docker is running
+[2020-03-22T17:05:53.212Z] [PID 27483] [40 ms] Start: Inspecting container
+[2020-03-22T17:05:53.216Z] [PID 27483] [44 ms] Start: Run: docker exec -i -u root -e VSCODE_REMOTE_CONTAINERS_SESSION=6989503b-dc64-445e-8a8d-39f56452f0b51584896752526 2c734bc34b5d1203b53854db7888482132a7165a010b434c7f3c177de91cd2c5 /bin/sh
+[2020-03-22T17:05:53.219Z] [PID 27483] [47 ms] Start: Run in container: uname -m
+[2020-03-22T17:05:53.783Z] [PID 27483] [611 ms] Start: Run in container: cat /etc/passwd
+[2020-03-22T17:05:53.783Z] [PID 27483] [611 ms] Stdin closed!
+[2020-03-22T17:05:53.785Z] [PID 27483] [613 ms] Shell server terminated (code: 0, signal: null)
+
+
+[2020-03-22T17:05:57.418Z] [PID 27674] [0 ms] Start: Resolving remote
+[2020-03-22T17:05:57.420Z] [PID 27674] [2 ms] Setting up container babbledockerapp_app_1
+
+[2020-03-22T17:05:57.428Z] [PID 27674] [10 ms] Start: Check Docker is running
+[2020-03-22T17:05:57.457Z] [PID 27674] [39 ms] Start: Inspecting container
+[2020-03-22T17:05:57.461Z] [PID 27674] [43 ms] Start: Run: docker exec -i -u root -e VSCODE_REMOTE_CONTAINERS_SESSION=ac874a43-00f7-4286-b39f-305b81fe20881584896756666 2c734bc34b5d1203b53854db7888482132a7165a010b434c7f3c177de91cd2c5 /bin/sh
+[2020-03-22T17:05:57.465Z] [PID 27674] [47 ms] Start: Run in container: uname -m
+[2020-03-22T17:05:57.780Z] [PID 27674] [362 ms] Start: Run in container: cat /etc/passwd
+[2020-03-22T17:05:57.780Z] [PID 27674] [362 ms] Stdin closed!
+[2020-03-22T17:05:57.781Z] [PID 27674] [363 ms] Shell server terminated (code: 0, signal: null)
+
+
